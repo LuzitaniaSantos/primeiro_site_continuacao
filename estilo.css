@@ -1,0 +1,49 @@
+html, body{
+    margin: 0;
+    padding: 0; 
+}
+
+#imagem-fundo{
+    background: url("fundo.jpg");
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+    }
+
+    #titulo{
+        color: blue;
+        padding-top: 20%;
+        font-size: 50px;
+        line-height: 1.0;
+    }
+    #subtitulo{
+        color: blue;
+        margin-left: 15%;
+        margin-right: 15%;
+        border-top: 3px solid white;
+        text-shadow: 1px 1px black;
+    }
+    
+    #acao{
+        color: black;
+        border: 4px black solid;
+        padding: 8px 20px 8px 20px;
+        text-decoration: none;
+    }
+
+    .icone{
+        width: 55px;
+    }
+    
+    section{
+        padding: 20px;
+        float: left;
+    }
+    .destaque{
+        background-color: #f7f7f7;
+    }
+    .imgeco{
+        width: 90%;
+    }
+
+   
